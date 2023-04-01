@@ -1,3 +1,5 @@
+[![Demonstration of using CI with GitHub Actions, Ant and JUnit | © 2023 by NQDtotty](https://github.com/NQDtotty/math-util-ant/actions/workflows/mathutil-ci-ant.yml/badge.svg)](https://github.com/NQDtotty/math-util-ant/actions/workflows/mathutil-ci-ant.yml)
+
 # Welcome to Math Utility Repository
 
 ### You will find in this repo the following stuff (Java code):
